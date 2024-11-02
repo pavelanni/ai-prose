@@ -2,6 +2,8 @@
 date: '2024-11-01T20:30:58-04:00'
 draft: false
 title: 'The Rest Cure'
+cover:
+  image: 'the-rest-cure.webp'
 ---
 
 > My car started giving me some strange sounds from the engine. I thought, "maybe it needs some rest" and didn't use it for a few days. I would like to see cars that can heal themselves like humans and animals do. Just give it some rest in a quiet place, give it a lot of warm drinks, and it will heal itself in a couple of days.

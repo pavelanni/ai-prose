@@ -2,6 +2,8 @@
 date: '2024-11-01T21:59:56-04:00'
 draft: false
 title: 'The Algorithm Calls'
+cover:
+  image: 'the-algorithm-calls.webp'
 ---
 
 > We've been watching a Netflix show about a woman detective for a couple of weeks already. Yesterday was a special day: the Groundhod Day. We never miss the opportunity to watch this beautiful movie to celebrate the date. So we didn't watch that show yesterday. Today, around 10 am I got a call on my cell phone.

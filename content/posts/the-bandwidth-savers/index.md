@@ -2,6 +2,8 @@
 date: '2024-11-01T21:46:59-04:00'
 draft: false
 title: 'The Bandwidth Savers'
+cover:
+  image: 'the-bandwidth-savers.webp'
 ---
 
 > We spent three days without internet. Well, not completely. Only without our normal 1 Gigabit Fiber. We could use our mobile hotspots, but pretty quickly we found out that there are bandwidth caps on them. We started thinking about saving bandwidth by not watching videos and loading what we don't really need.

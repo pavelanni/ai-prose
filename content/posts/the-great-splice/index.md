@@ -2,6 +2,8 @@
 date: '2024-11-01T20:25:56-04:00'
 draft: false
 title: 'The Great Splice'
+cover:
+  image: 'the-great-splice.webp'
 ---
 
 > Today we had an Internet outage. People from AT&T Fiber told us it's a big one. They said their had to repair a large backbone cable. I imagined how it might look like: two ends of a large cable with hundreds of fiber lines from each end, and they had to splice all them together. What would happen if they made a mistake and I started receiving somebody else's Internet feed? I would see different movies and TV programs, my Facebook and Instargam feeds would show me different pictures and articles. etc. What else could go wrong?

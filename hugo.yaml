@@ -12,6 +12,8 @@ params:
       I ask AI to write a story based on it.
   ShowReadingTime: true
   ShowWordCount: true
+  cover:
+    hiddenInList: false
   socialIcons:
   - name: github
     url: https://github.com/pavelanni/ai-prose
