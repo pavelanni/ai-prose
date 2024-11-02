@@ -1,0 +1,15 @@
+baseURL: https://aiprose.org/
+languageCode: en-us
+title: AI Prose
+theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: AI Prose
+    Content: |
+      From time to time I have an idea for a story.
+      Usually it's about something that happens to me.
+      I ask AI to write a story based on it.
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowWordCount: true
