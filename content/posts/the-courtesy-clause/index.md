@@ -1,6 +1,6 @@
 ---
 date: '2024-11-01T21:06:10-04:00'
-draft: true
+draft: false
 title: 'The Courtesy Clause'
 ---
 

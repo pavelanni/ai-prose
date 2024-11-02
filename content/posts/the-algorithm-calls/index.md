@@ -1,6 +1,6 @@
 ---
 date: '2024-11-01T21:59:56-04:00'
-draft: true
+draft: false
 title: 'The Algorithm Calls'
 ---
 

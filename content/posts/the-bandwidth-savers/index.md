@@ -1,6 +1,6 @@
 ---
 date: '2024-11-01T21:46:59-04:00'
-draft: true
+draft: false
 title: 'The Bandwidth Savers'
 ---
 

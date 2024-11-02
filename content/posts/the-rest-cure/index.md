@@ -1,6 +1,6 @@
 ---
 date: '2024-11-01T20:30:58-04:00'
-draft: true
+draft: false
 title: 'The Rest Cure'
 ---
 

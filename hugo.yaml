@@ -10,6 +10,9 @@ params:
       From time to time I have an idea for a story.
       Usually it's about something that happens to me.
       I ask AI to write a story based on it.
-  ShowShareButtons: true
   ShowReadingTime: true
   ShowWordCount: true
+  socialIcons:
+  - name: github
+    url: https://github.com/pavelanni/ai-prose
+    icon: fab fa-github
