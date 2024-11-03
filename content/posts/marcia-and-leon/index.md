@@ -3,7 +3,7 @@ date: '2024-04-01T22:00:00-04:00'
 draft: false
 title: 'Marcia and Leon'
 cover:
-  image: 'marcia-and-leon.png'
+  image: 'marcia-and-leon-cartoon.jpg'
 ---
 
 _The cover image is by the author of this site._
