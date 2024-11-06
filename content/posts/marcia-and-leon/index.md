@@ -6,7 +6,6 @@ cover:
   image: 'marcia-and-leon-cartoon.jpg'
 ---
 
-_The cover image is by the author of this site._
 
 > Write a story about these two cats. The Siamese cat on the right is a girl, her name is Marcia. She is three years old. The boy on the left is 6 months old, his name is Leon.
 
@@ -27,3 +26,5 @@ Nights found them curled up together, with Leon often nestled against Marcia's w
 Over time, the house that was once ruled solely by Marcia became a shared kingdom of two feline royals. Their subjects, the humans, watched in delight as the two formed an inseparable bond. Marcia, with her grace and elegance, and Leon, with his youthful exuberance, became the heart and soul of the home. And while they had their occasional skirmishes over toys or the best spot on the couch, it was evident to all that their bond was unbreakable.
 
 Thus, in a house filled with laughter, play, and endless cat antics, Marcia and Leon wrote their tale—one of friendship, growth, and the magical bond shared between two unlikely companions.
+
+_The cover image is by the author of this site._
