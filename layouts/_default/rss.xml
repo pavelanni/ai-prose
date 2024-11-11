@@ -43,7 +43,7 @@
 {{- $pages = $pages | first $limit }}
 {{- end }}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
@@ -73,17 +73,28 @@
       {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
       <guid>{{ .Permalink }}</guid>
       <description>{{ with .Description | html }}{{ . }}{{ else }}{{ .Summary | html }}{{ end -}}</description>
-      {{- $isCoverHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
-      {{- $cover := (partial "cover.html" (dict "cxt" . "IsSingle" false "IsHome" false "isHidden" $isCoverHidden)) -}}
-      {{- if (or $cover (and site.Params.ShowFullTextinRSS .Content)) -}}
-          <content:encoded>
-          {{- if $cover -}}
-              {{ (printf "<![CDATA[%s]]>" $cover) | safeHTML }}
-          {{- end -}}
-          {{- if and site.Params.ShowFullTextinRSS .Content }}
-               {{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}
-          {{- end -}}
-          </content:encoded>
+      {{- if .Params.cover.image -}}
+        {{- $image := .Resources.GetMatch .Params.cover.image }}
+        {{- if $image }}
+            {{- $imgURL := $image.Permalink }}
+            <media:content url="{{ $imgURL }}" medium="image" />
+        {{- else }}
+            {{- /* If image is an external URL or in static directory */ -}}
+            {{- $imgURL := absURL .Params.cover.image }}
+            <media:content url="{{ $imgURL }}" medium="image" />
+        {{- end }}
+      {{- end }}
+      <content:encoded>{{ printf "<![CDATA[" | safeHTML }}
+        {{- if .Params.cover.image -}}
+          {{- $image := .Resources.GetMatch .Params.cover.image }}
+          {{- if $image }}
+            <img src="{{ $image.Permalink }}" alt="{{ .Params.cover.alt | default .Title }}"/>
+          {{- else }}
+            <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Params.cover.alt | default .Title }}"/>
+          {{- end }}
+        {{- end }}
+        {{ .Content }}
+      {{ printf "]]>" | safeHTML }}</content:encoded>
       {{- end }}
     </item>
     {{- end }}
