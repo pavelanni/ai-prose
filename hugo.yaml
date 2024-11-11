@@ -12,12 +12,20 @@ params:
       I ask AI to write a story based on it.
   ShowReadingTime: true
   ShowWordCount: true
+  ShowFullTextinRSS: true
   cover:
     hiddenInList: false
   socialIcons:
   - name: github
     url: https://github.com/pavelanni/ai-prose
     icon: fab fa-github
+  - name: rss
+    url: https://aiprose.org/index.xml
+    icon: fas fa-rss
   customCSS:
   - custom.css
   - extended/custom.css
+  outputs:
+    home:
+    - HTML
+    - RSS
