@@ -1,0 +1,4 @@
+{"version": 2, "width": 166, "height": 38, "timestamp": 1731594451, "env": {"SHELL": "/bin/bash", "TERM": "xterm-kitty"}}
+[0.5, "o", "\u001b[32mPROGRAM NEURAL_NET\r\nREAL*8 TENSOR(1000000000,1000000000)\r\nGOTO 42\r\n\u001b[m\r\n\u001b]0;pavel@fedora:~/Projects/ai-prose/content/posts/fortran-forever\u0007"]
+[2, "o", "\u001b[?2004h[pavel@fedora fortran-forever]$ "]
+[3, "o", "\u001b[?2004l\r\r\nexit\r\n"]

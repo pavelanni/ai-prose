@@ -1,0 +1,7 @@
+{"version": 2, "width": 166, "height": 38, "timestamp": 1731594451, "env": {"SHELL": "/bin/bash", "TERM": "xterm-kitty"}}
+[0.060775, "o", "\u001b]0;pavel@fedora:~/Projects/ai-prose/content/posts/fortran-forever\u0007\u001b[?2004h[pavel@fedora fortran-forever]$ "]
+[8.359091, "o", "\u001b[7mprintf '\\e[32mPROGRAM NEURAL_NET\\nREAL*8 TENSOR(1000000000,1000000000)\\nGOTO 42\\n\\e[m\\n'\u001b[27m"]
+[9.403431, "o", "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cprintf '\\e[32mPROGRAM NEURAL_NET\\nREAL*8 TENSOR(1000000000,1000000000)\\nGOTO 42\\n\\e[m\\n'\r\n\u001b[?2004l\r"]
+[9.404026, "o", "\u001b[32mPROGRAM NEURAL_NET\r\nREAL*8 TENSOR(1000000000,1000000000)\r\nGOTO 42\r\n\u001b[m\r\n\u001b]0;pavel@fedora:~/Projects/ai-prose/content/posts/fortran-forever\u0007"]
+[9.404206, "o", "\u001b[?2004h[pavel@fedora fortran-forever]$ "]
+[11.5158, "o", "\u001b[?2004l\r\r\nexit\r\n"]
