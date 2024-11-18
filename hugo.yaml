@@ -3,7 +3,12 @@ languageCode: en-us
 title: AI Prose
 theme: [ "PaperMod" ]
 
+enableRobotsTXT: true
+
 params:
+  title: AI Prose
+  description: "This is a collection of stories written by AI. Usually I ask Claude AI to write a story based on something that happened to me."
+  keywords: [ "AI", "AI Prose", "AI Stories", "Claude AI", "AI Writing" ]
   homeInfoParams:
     Title: AI Prose
     Content: |
@@ -13,6 +18,9 @@ params:
   ShowReadingTime: true
   ShowWordCount: true
   ShowFullTextinRSS: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowRssButtonInSectionTermList: true
   cover:
     hiddenInList: false
   socialIcons:
@@ -22,6 +30,8 @@ params:
   - name: rss
     url: https://aiprose.org/index.xml
     icon: fas fa-rss
+  TwitterCards: true
+  enableOpenGraph: true
   customCSS:
   - custom.css
   - extended/custom.css
