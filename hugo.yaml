@@ -39,3 +39,7 @@ params:
     home:
     - HTML
     - RSS
+
+services:
+  disqus:
+    shortname: ai-prose
