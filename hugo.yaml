@@ -40,5 +40,3 @@ params:
     - HTML
     - RSS
   comments: true
-
-disqusShortname: ai-prose
