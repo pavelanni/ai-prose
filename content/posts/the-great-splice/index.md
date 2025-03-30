@@ -10,6 +10,7 @@ cover:
 >
 > I asked Claude.ai to write a sci-fi story based on it.
 
+{{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/the-great-splice.mp3" >}}
 
 Jake stared at his screen, bewildered.
 The AT&T guy had just left, proudly announcing the Internet was back up after the "Great Cable Splice of '24."

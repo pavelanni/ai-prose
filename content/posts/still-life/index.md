@@ -7,6 +7,9 @@ cover:
   image: 'still-life.webp'
 ---
 
+{{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/still-life.mp3" >}}
+
+
 "Remain calm and stationary. This message is brought to you by AutoMove Corp - Your Trusted Partner in Safe Transportation." The MetroScreen flashed its hourly reminder as Sarah Chen rode the automated transit pod to work. Through the window, she watched an elderly woman being escorted off another pod by Movement Control officers. The woman's crime was obvious - she'd been walking to the grocery store instead of using the mandatory AutoMove shopping delivery service.
 
 The Kinetic Activity Prevention Act had passed three years ago, after researchers at the Global Health Institute (recently acquired by the Mobility Solutions Consortium) published their groundbreaking study: "The Fatal Cost of Unnecessary Motion." Their data was irrefutable. Excessive physical activity created micro-tears in muscle tissue, accelerated joint wear, and - most alarmingly - generated dangerous levels of endorphins that led to movement addiction.

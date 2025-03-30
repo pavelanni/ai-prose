@@ -13,6 +13,8 @@ cover:
 >
 > I asked Claude to write a story about it.
 
+{{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/runtime-error.mp3" >}}
+
 Mike's fingers moved across the keyboard with practiced precision as he implemented a red-black tree from scratch. The gentle click-clack of mechanical switches was interrupted by a sharp knock on his dorm room door.
 
 "Hide that!" Tom hissed from his desk across the room, where he was crafting a fake dialogue with CodeCompanion AI. Mike quickly minimized his code editor and opened a blank AI chat window.

@@ -16,6 +16,8 @@ cover:
 > "Honey, I had a very interesting dream recently, let's watch it together...
 > Oh, wait, sorry, that's not the dream I wanted to show you... No, it's not what you think, please don't start..."
 
+{{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/terms-and-conditions.mp3" >}}
+
 The problem with DreamFlix wasn't the technology—the Neural Sleep Recorders worked perfectly fine. It wasn't the monthly subscription fee either (though $14.99 did seem a bit steep just to remember your own dreams). No, Tom's issue with DreamFlix was their customer service, which he was currently experiencing in all its automated glory.
 
 "To better assist you," chirped the AI assistant's voice in his ear, "please state the nature of your dream emergency."

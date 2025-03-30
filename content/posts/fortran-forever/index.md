@@ -11,6 +11,8 @@ cover:
 >
 > As usual, I asked Claude.ai (Sonnet 3.5) to write a short story about it.
 
+{{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/fortran-forever.mp3" >}}
+
 "According to Stack Overflow trends," announced CodeBuddy AI, "Python remains the most popular language for AI development, with PyTorch and—"
 
 "Ok, boomer," interrupted Zara Chen, watching her neural arrays compile in FORTRAN 2040. "My grandpa taught me real programming."

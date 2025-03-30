@@ -11,6 +11,8 @@ cover:
 > Hmmm... "bed bugs"... It might be a good wordplay and a good story, I thought.
 > And I asked Claude.ai to write a story about it.
 
+{{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/the-sleep-protocol.mp3" >}}
+
 Jim Randall hadn't slept in three days. Not since the SmartRest™ firmware update. His $8,999 bed was supposed to be the ultimate solution - adaptive pressure mapping, temperature regulation, and AI-driven sleep optimization. Instead, it had turned into his personal tormentor.
 
 The company's forums were flooded with complaints. "Anyone else experiencing these bed bugs?" one user posted. The phrase caught on quickly. These weren't your grandmother's bed bugs - no exterminator could help with software bugs in a smart bed.
