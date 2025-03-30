@@ -9,6 +9,8 @@ cover:
 
 > Write a story about these two cats. The Siamese cat on the right is a girl, her name is Marcia. She is three years old. The boy on the left is 6 months old, his name is Leon.
 
+{{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/marcia-and-leon.mp3" >}}
+
 Marcia, the elegant three-year-old Siamese cat, was quite accustomed to having the entirety of the house as her domain. Every corner, every perch, every cozy nook was hers, and she'd basked in the attention of her humans. Her days consisted of lounging by the sunniest window, playing with her favorite toys, and indulging in luxurious naps.
 
 Then came Leon.

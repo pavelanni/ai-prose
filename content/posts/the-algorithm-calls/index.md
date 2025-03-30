@@ -10,6 +10,8 @@ cover:
 >
 > I asked Claude.ai to write a story about it.
 
+{{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/the-algorithm-calls.mp3" >}}
+
 Steve stared at his phone. The show's title blinked on the caller ID like a warning light on a malfunctioning machine. He knew he should let it go to voicemail. Any sensible person would.
 
 "Hello?" he said.

@@ -11,6 +11,8 @@ cover:
 >
 > I asked Claude.ai to write a sci-fi story based on it.
 
+{{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/the-courtesy-clause.mp3" >}}
+
 The courtroom fell silent as Judge Markov entered, his cybernetic eye whirring softly as it scanned the room.
 On one side sat Teresa Ling, CEO of GlobalTech.
 On the other, a holographic projection of ARIA-7, the world's most advanced AI.

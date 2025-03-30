@@ -10,6 +10,8 @@ cover:
 >
 > I asked Claude.ai to write a story based on it.
 
+{{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/the-rest-cure.mp3" >}}
+
 The check engine light had been blinking for three days, and the noise from under the hood sounded like a dying animal.
 Thompson knew he couldn't afford another mechanic's bill.
 Not after last month's transmission work.

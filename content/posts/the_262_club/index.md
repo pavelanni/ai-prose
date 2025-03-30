@@ -7,6 +7,8 @@ cover:
   image: 'the_26_2_club.webp'
 ---
 
+{{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/the_262_club.mp3" >}}
+
 They met in the abandoned subway tunnels, deep beneath the automated skyways and moving sidewalks of New Chicago. Once a month, when the MoveSafe™ system underwent its scheduled maintenance reboot, they had exactly 47 minutes of unmonitored time. They called themselves the 26.2 Club.
 
 "The loop is measured and marked," whispered Maria, her old marathon windbreaker a forbidden flag in the darkness. "Remember, no more than three laps. We can't risk elevated heart rates after the system comes back online."

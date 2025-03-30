@@ -10,6 +10,7 @@ cover:
 >
 > I asked Claude.ai to write a story where internet bandwidth is a precious resource and people have to save it. Some people share the leftovers with friends and neighbors.
 
+{{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/the-bandwidth-savers.mp3" >}}
 
 Jake sat at his kitchen table, staring at the tiny screen of his data meter. The numbers flickered: 2.3 GB remaining. He'd have to make it last another week.
 
