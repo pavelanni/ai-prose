@@ -1,6 +1,6 @@
 ---
 date: '2025-04-13T15:07:18-04:00'
-draft: true
+draft: false
 title: 'Tilda and the Chair'
 cover:
   image: 'tilda-leo-chair.jpeg'
