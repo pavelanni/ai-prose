@@ -30,6 +30,8 @@ params:
   - name: rss
     url: https://aiprose.org/index.xml
     icon: fas fa-rss
+  images:
+  - og-image.png
   TwitterCards: true
   enableOpenGraph: true
   customCSS:
