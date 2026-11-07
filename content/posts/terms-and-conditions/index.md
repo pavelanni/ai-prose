@@ -6,13 +6,13 @@ cover:
   image: 'terms-and-conditions.webp'
 ---
 
-> Almost every day my wife retells me her dreams.
-> "Honey, I had an interesting dream this night," and she tells me a story with a twisted plot, bright visuals, and crazy dialogs.
-> I thought, what if there was a device to record a person's dreams? Something like a pair of earbuds that you place on the person's head and download the last night's dream.
+> Almost every day my wife tells me about her dreams.
+> "Honey, I had an interesting dream last night," and she tells me a story with a twisted plot, bright visuals, and crazy dialogs.
+> I thought, what if there was a device to record a person's dreams? Something like a pair of earbuds that you place on the person's head and download last night's dream.
 > Then I imagined a company, or the whole industry that would sell a service to store your dreams in the cloud and make them available for rewatching. Please write a sci-fi story about it.
 > I think there should be some attributes that we are too familiar with today:
 > a 27-page license agreement that nobody reads,
-> data leaks, account breaking on politicians' and celebrities' accounts, NSFW dreams, etc.
+> data leaks, break-ins to politicians' and celebrities' accounts, NSFW dreams, etc.
 > "Honey, I had a very interesting dream recently, let's watch it together...
 > Oh, wait, sorry, that's not the dream I wanted to show you... No, it's not what you think, please don't start..."
 
@@ -48,7 +48,7 @@ His phone buzzed. Jenny was calling.
 
 "Hey, are you coming over? You have to see this dream! I finally mastered lucid dreaming and—" She paused. "Why do you sound so frustrated?"
 
-"DreamFlix is being impossible. They've locked half my dreams behind paywalls, and apparently, I need a license to dream about pizza now."
+"DreamFlix is being impossible. They've locked half my dreams behind paywalls, and apparently I need a license to dream about pizza now."
 
 "Oh no," Jenny laughed. "Did you get the pizza copyright notice too? Here's a tip: just change the dream tags to 'Circular Food Item of Unspecified Origin' and they'll leave you alone."
 
@@ -82,4 +82,4 @@ But he didn't care. Some things were worth the copyright infringement.
 
 ---
 
-*Note: This story is provided as-is and may not be redistributed, repurposed, or redreamed without express written permission from StoryDreams LLC, a wholly owned subsidiary of DreamFlix Corporation. Any similarities to actual dreams, living or dead, are purely coincidental and subject to surge pricing.*
+_Note: This story is provided as-is and may not be redistributed, repurposed, or redreamed without express written permission from StoryDreams LLC, a wholly owned subsidiary of DreamFlix Corporation. Any similarities to actual dreams, living or dead, are purely coincidental and subject to surge pricing._

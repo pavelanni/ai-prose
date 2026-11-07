@@ -38,7 +38,7 @@ Murmurs of disbelief rippled through the break room. Uncapped lines were urban l
 
 Jake's mind raced. If it was true, the Johnsons could be living in a world of unlimited information, streaming videos, making video calls without a care. The thought made him dizzy.
 
-On his walk home, Jake noticed new graffiti on the subway wall: "FREE THE DATA". He quickened his pace.
+On his walk home, Jake noticed new graffiti on the subway wall: "FREE THE DATA." He quickened his pace.
 
 That evening, as he carefully portioned out 50 megabytes for some light reading, Jake wondered how long this scarcity would last. Would his children grow up knowing only a world of metered knowledge and rationed connection?
 

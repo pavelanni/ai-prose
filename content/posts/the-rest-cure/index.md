@@ -6,7 +6,7 @@ cover:
   image: 'the-rest-cure.webp'
 ---
 
-> My car started giving me some strange sounds from the engine. I thought, "maybe it needs some rest" and didn't use it for a few days. I would like to see cars that can heal themselves like humans and animals do. Just give it some rest in a quiet place, give it a lot of warm drinks, and it will heal itself in a couple of days.
+> My car started giving me some strange sounds from the engine. I thought, "Maybe it needs some rest" and didn't use it for a few days. I would like to see cars that can heal themselves like humans and animals do. Just give it some rest in a quiet place, give it a lot of warm drinks, and it will heal itself in a couple of days.
 >
 > I asked Claude.ai to write a story based on it.
 
@@ -45,7 +45,7 @@ That night, he called his brother, a mechanic in Detroit.
 "It's all mechanical. Probably just some loose debris that settled out during the rest."
 
 Thompson agreed, of course.
-But he never told his brother about the small oil stains on his grandmother's quilt—stains that looked remarkably like tear drops.
+But he never told his brother about the small oil stains on his grandmother's quilt—stains that looked remarkably like teardrops.
 
 The next week, when his neighbor's Toyota started making a clicking sound,
 Thompson just smiled and said, "I know a place that does wonderful work.

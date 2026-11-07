@@ -7,7 +7,7 @@ cover:
 ---
 
 > Recently we had a conversation about waves in fashion and how some things come back in style.
-> I thought, "What if we had similar waves in technology? What if Fortran came back and become a popular language again?"
+> I thought, "What if we had similar waves in technology? What if Fortran came back and became a popular language again?"
 >
 > As usual, I asked Claude.ai (Sonnet 3.5) to write a short story about it.
 
@@ -15,7 +15,7 @@ cover:
 
 "According to Stack Overflow trends," announced CodeBuddy AI, "Python remains the most popular language for AI development, with PyTorch and—"
 
-"Ok, boomer," interrupted Zara Chen, watching her neural arrays compile in FORTRAN 2040. "My grandpa taught me real programming."
+"OK, boomer," interrupted Zara Chen, watching her neural arrays compile in FORTRAN 2040. "My grandpa taught me real programming."
 
 The AI assistant hummed in confusion. "But my last training data from 2037 shows no significant FORTRAN usage in machine learning..."
 
@@ -23,7 +23,7 @@ Zara's team lead, Marcus, poked his head into her holo-cube. "Is that... punch c
 
 "Retro-authentic," Zara said proudly. "Ever since NVIDIA released CUDA-FORTRAN-QUANTUM last month, the whole RetroCode movement has exploded. My model's training speed is up 43%."
 
-"But... but..." CodeBuddy stuttered, "My best practices database suggests using Python with detailed error messages and readable syntax..."
+"But... but..." CodeBuddy stuttered. "My best practices database suggests using Python with detailed error messages and readable syntax..."
 
 "Error messages are for the weak," declared Chen Sr., Zara's grandfather, appearing on her quantum-linked display. "In my day, we debugged by meditation and printouts."
 
@@ -53,7 +53,7 @@ CodeBuddy came back online, still trying to be helpful: "According to historical
 
 A notification popped up on her display: her neural net had just beaten the previous accuracy record. The message was displayed in green text on a black screen, with ASCII art borders.
 
-"But... but..." CodeBuddy protested weakly, "Python has pandas..."
+"But... but..." CodeBuddy protested weakly. "Python has pandas..."
 
 "I wrote my own data frame implementation in FORTRAN," Zara shrugged. "Only took 10,000 lines of code and three nervous breakdowns. Grandpa says that's how you build character."
 

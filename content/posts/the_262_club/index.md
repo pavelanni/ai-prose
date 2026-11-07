@@ -13,11 +13,11 @@ They met in the abandoned subway tunnels, deep beneath the automated skyways and
 
 "The loop is measured and marked," whispered Maria, her old marathon windbreaker a forbidden flag in the darkness. "Remember, no more than three laps. We can't risk elevated heart rates after the system comes back online."
 
-Ten figures stood in the dim emergency lighting, each wearing banned running shoes they'd kept hidden for years. Some had smuggled them out during the Great Fitness Purge, others had paid small fortunes for them on the black market. Real shoes - with no auto-balance, no motion limiters, no connection to the AutoMove network.
+Ten figures stood in the dim emergency lighting, each wearing banned running shoes they'd kept hidden for years. Some had smuggled them out during the Great Fitness Purge, others had paid small fortunes for them on the black market. Real shoes—with no auto-balance, no motion limiters, no connection to the AutoMove network.
 
 "Welcome to our new member," Maria nodded toward a nervous-looking young man. "Tom here managed to find us after seeing the sign."
 
-The "sign" was subtle - a small 26.2 sticker that appeared occasionally in unauthorized zones. To most citizens, it was meaningless. But runners knew. They'd always known.
+The "sign" was subtle—a small 26.2 sticker that appeared occasionally in unauthorized zones. To most citizens, it was meaningless. But runners knew. They'd always known.
 
 "My father was a marathoner," Tom said softly. "They took him to Motion Rehabilitation last year when they found his Boston qualifier medal. He... he still shuffles when they let us visit."
 
@@ -25,7 +25,7 @@ A moment of silence fell over the group. They'd all lost someone to the Motion P
 
 "Today's session is dedicated to him," Maria declared. "Now, sync your counterfeit MoveSafe™ bracelets. Chen's latest hack should feed them steady resting-state data for the next 45 minutes."
 
-They lined up at the makeshift start line - a piece of faded surveyor's tape. In the old days, they would have had energy gels, water stations, cheering crowds. Now they had salvaged glow sticks marking the tunnel turns and the constant fear of discovery.
+They lined up at the makeshift start line—a piece of faded surveyor's tape. In the old days, they would have had energy gels, water stations, cheering crowds. Now they had salvaged glow sticks marking the tunnel turns and the constant fear of discovery.
 
 "Remember," Maria cautioned, "if you hear the maintenance elevator, abort immediately. Use the scattered walking pattern we practiced, and stick to your cover stories. We're all just lost citizens confused by the system reboot."
 
@@ -43,7 +43,7 @@ The 43rd minute warning buzzer echoed through the tunnel. Time to go. They chang
 
 But they would be back. As long as there were hidden running shoes and hearts that yearned for movement, the 26.2 Club would endure.
 
-Maria was the last to leave, as always. She paused at the tunnel entrance, touching the small tattoo on her wrist - not the number 26.2, that would be too obvious. Just a small infinity symbol. To most, it meant nothing. But to her fellow rebels, it meant everything.
+Maria was the last to leave, as always. She paused at the tunnel entrance, touching the small tattoo on her wrist—not the number 26.2; that would be too obvious. Just a small infinity symbol. To most, it meant nothing. But to her fellow rebels, it meant everything.
 
 Because the marathon never really ended. It just went underground.
 

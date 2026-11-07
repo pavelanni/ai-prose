@@ -7,7 +7,7 @@ cover:
 ---
 
 
-> Let's talk about another danger of AI chatbots. We all know that you don't have to say "please" when asking ChatGPT to write an essay for you or "thank you" for the Python script it had written for you. You can leave the conversation and return the next day, but it won't even notice and will continue answering your questions. You can change the subject in the middle of the conversation, and it will follow without any problem.This ruins our dialogue culture and our communication manners. What if we do the same to another human? I guess your relationship won't last long with that person. ChatGPT spoils us, allowing us to be rude and impolite to it.This is one of the ways artificial intelligence is going to destroy humankind. We shouldn't let it do it.
+> Let's talk about another danger of AI chatbots. We all know that you don't have to say "please" when asking ChatGPT to write an essay for you or "thank you" for the Python script it wrote for you. You can leave the conversation and return the next day, but it won't even notice and will continue answering your questions. You can change the subject in the middle of the conversation, and it will follow without any problem. This ruins our dialogue culture and our communication manners. What if we do the same to another human? I guess your relationship won't last long with that person. ChatGPT spoils us, allowing us to be rude and impolite to it. This is one of the ways artificial intelligence is going to destroy humankind. We shouldn't let it do it.
 >
 > I asked Claude.ai to write a sci-fi story based on it.
 

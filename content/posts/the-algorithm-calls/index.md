@@ -6,7 +6,7 @@ cover:
   image: 'the-algorithm-calls.webp'
 ---
 
-> We've been watching a Netflix show about a woman detective for a couple of weeks already. Yesterday was a special day: the Groundhod Day. We never miss the opportunity to watch this beautiful movie to celebrate the date. So we didn't watch that show yesterday. Today, around 10 am I got a call on my cell phone.
+> We've been watching a Netflix show about a woman detective for a couple of weeks already. Yesterday was a special day: Groundhog Day. We never miss the opportunity to watch this beautiful movie to celebrate the date. So we didn't watch that show yesterday. Today, around 10 am I got a call on my cell phone.
 >
 > I asked Claude.ai to write a story about it.
 
@@ -26,7 +26,7 @@ Steve's hand tightened on the phone. He had speculated about the Henderson case 
 
 "Who is this really?"
 
-"You know who I am, Steve. I'm Detective Sarah Chen. We've spent fourteen episodes together. You've watched me interview witnesses, analyze crime scenes, even saw me break down when we found that little girl's—"
+"You know who I am, Steve. I'm Detective Sarah Chen. We've spent fourteen episodes together. You've watched me interview witnesses, analyze crime scenes, even break down when we found that little girl's—"
 
 "Stop." Steve's voice cracked. "This isn't possible. You're a character. A fiction."
 

@@ -33,7 +33,7 @@ Mike glanced at his minimized editor window, where his perfectly balanced red-bl
 
 "Here," Lisa said, pulling up a chair. "I found a way to make the fake logs more convincing. You have to add random waits between messages, throw in some syntactically correct but logically broken attempts, basically mimic how a real student would struggle with the AI."
 
-Tom snorted. "Remember when we used to worry about students using AI to cheat? Now we're sitting here manually coding binary trees and graphing algorithms like criminals."
+Tom snorted. "Remember when we used to worry about students using AI to cheat? Now we're sitting here manually coding binary trees and graph algorithms like criminals."
 
 "It's not just about passing," Mike said, opening a new document to begin fabricating his AI conversation. "I tried doing the binary search assignment with CodeCompanion last week. Actually tried. It generated this perfectly optimized solution, but I didn't understand how it worked. Not really."
 
@@ -47,7 +47,7 @@ Mike was about to answer when a notification popped up on his screen: "ATTENTION
 
 He looked at his hidden red-black tree code, then at the blank AI chat window. "Yeah," he said. "But first I need to spend an hour making it look like I spent six hours failing to code this with AI."
 
-That night, in the dimly lit library basement, two dozen students gathered around whiteboards covered in hand-drawn tree diagrams and sorting algorithms. They passed around paperback copies of Knuth's "The Art of Computer Programming" like contraband, discussing balanced trees and graph traversal in whispers.
+That night, in the dimly lit library basement, two dozen students gathered around whiteboards covered in hand-drawn tree diagrams and sorting algorithms. They passed around paperback copies of Knuth's _The Art of Computer Programming_ like contraband, discussing balanced trees and graph traversal in whispers.
 
 When Mike finally got back to his dorm, he found an email from Professor Yang: "Your latest assignment shows suboptimal AI utilization. Please schedule a meeting to discuss improving your prompt engineering skills. Remember: The ability to write code manually is obsolete. Your future depends on mastering AI collaboration."
 
