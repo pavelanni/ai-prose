@@ -8,6 +8,8 @@ cover:
 
 > We all know about the Groundhog Day tradition in Pennsylvania, where people are waiting for winter to end. We live in Georgia, in an Atlanta suburb, and we are waiting for the summer to end. This hot period has just started, and it will most likely last 6-8 weeks. I wonder what a local tradition might be, where people would watch some local animal (which animal could it be?) and decide how many more weeks of summer remain.
 
+{{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/the-great-cicada.mp3" >}}
+
 *From "Hidden Gems of the New South: A Traveler's Guide to Peculiar Traditions" by Margaret Whitfield*
 
 In the charming city of Alpharetta, Georgia, where the sweet tea flows as freely as the Chattahoochee River and the kudzu grows with the persistence of a door-to-door salesman, there exists a tradition that would make even the most seasoned folklorist scratch their heads in bewilderment.
