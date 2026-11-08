@@ -47,6 +47,21 @@ This creates `content/posts/story-name/index.md` from `archetypes/default.md`, w
 - `{{< audio-player url=... >}}` embeds an audio file (e.g. a narrated version of a story).
 - `terminal` displays terminal-style text or code blocks. See `layouts/shortcodes/terminal.html` for usage.
 
+## Narrated audio
+
+`scripts/make_audio.py` turns a post into an MP3 using [Kokoro](https://github.com/hexgrad/kokoro) (local, free text-to-speech) and uploads it to the Cloudflare R2 bucket that serves the audio files.
+
+Prerequisites: [uv](https://docs.astral.sh/uv/), `ffmpeg`, `espeak-ng` (`brew install espeak-ng ffmpeg` on macOS), and `npx wrangler login` for uploads. Python dependencies are installed automatically by `uv` on first run.
+
+```bash
+scripts/make_audio.py the-great-cicada --text-only   # preview the cleaned text
+scripts/make_audio.py the-great-cicada --no-upload   # synthesize to audio/the-great-cicada.mp3
+export R2_BUCKET=<bucket-name>
+scripts/make_audio.py the-great-cicada               # synthesize + upload to R2
+```
+
+The script prints the `audio-player` shortcode line to paste into the post. It skips the front matter, shortcodes, the `>` prompt blockquote and the DALL-E credit, and reads the title first. Use `--voice` to change the narrator (default `af_heart`) and `--speed` to adjust the pace.
+
 ## Deployment
 
 The site is deployed to Cloudflare Pages, built from the `main` branch. Pushing to `origin/main` triggers a deploy.
