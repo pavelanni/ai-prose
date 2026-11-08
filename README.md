@@ -62,6 +62,8 @@ scripts/make_audio.py the-great-cicada               # synthesize + upload to R2
 
 The script prints the `audio-player` shortcode line to paste into the post. It skips the front matter, shortcodes, the `>` prompt blockquote and the DALL-E credit, and reads the title first. Use `--voice` to change the narrator (default `af_heart`) and `--speed` to adjust the pace.
 
+Audio published before November 2026 was generated with [openai.fm](https://www.openai.fm/), including the cat's voice in "Tilda and the Chair", which was created from a text prompt there.
+
 ## Deployment
 
 The site is deployed to Cloudflare Pages, built from the `main` branch. Pushing to `origin/main` triggers a deploy.
