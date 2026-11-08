@@ -4,3 +4,4 @@ public/
 Thumbs.db
 resources/
 audio/
+.wrangler/
