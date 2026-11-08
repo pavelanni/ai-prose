@@ -6,7 +6,7 @@ cover:
   image: 'the-great-cicada.webp'
 ---
 
-> We all know about the Groundhog Day tradition in Pennsylvania, where people are waiting for winter to end. We live in Georgia, in an Atlanta suburb, and we are waiting for the summer to end. This hot period has just started, and it will most likely last 6-8 weeks. I wonder what a local tradition might be, where people would watch some local animal (which animal could it be?) and decide how many more weeks of summer remain.
+> We all know about the Groundhog Day tradition in Pennsylvania, where people are waiting for winter to end. We live in Georgia, in an Atlanta suburb, and we are waiting for summer to end. This hot period has just started, and it will most likely last 6-8 weeks. I wonder what a local tradition might be, where people would watch some local animal (which animal could it be?) and decide how many more weeks of summer remain.
 
 {{< audio-player url="https://pub-d5cb528b6de54f13988ed3c57aee1756.r2.dev/the-great-cicada.mp3" >}}
 
